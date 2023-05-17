@@ -1,0 +1,7 @@
+.QuotesCard {
+
+}
+
+.QuotesCard .centerRow{
+    flex-wrap: wrap;
+}

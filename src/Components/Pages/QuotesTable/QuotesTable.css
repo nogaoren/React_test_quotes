@@ -1,0 +1,7 @@
+.QuotesTable {
+	
+}
+
+.QuotesTable .centerRow{
+    flex-wrap: wrap;
+}
